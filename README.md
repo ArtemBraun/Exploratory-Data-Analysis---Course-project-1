@@ -9,3 +9,5 @@ Task was to reconstruct the provided plots, all of which were constructed using 
 There are four R code files in the repository (Plot1.R, Plot2.R, Plot3.R, Plot3.R) that constructs the corresponding plots (Plot1.png, Plot2.png, Plot3.png, Plot4.png), i.e. code in Plot1.R constructs the Plot1.png plot. <br />
 <br />
 Code files include code for reading the data as well, so the plots are fully reproduced. <br />
+<br />
+Weekdays on plots are presented in Russian language since "weekdays and months return a character vector of names in the locale in use".
