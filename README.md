@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Week 1 Assignment <br />
-## Peer-graded Assignment <br />
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, the “Individual household electric power consumption Data Set”. <br />
 <br />
 Overall goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007. <br />
