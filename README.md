@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Course project 1 <br />
+# Exploratory Data Analysis - Week 1 Assignment <br />
 ## Peer-graded Assignment <br />
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, the “Individual household electric power consumption Data Set”. <br />
 <br />
